@@ -1,7 +1,8 @@
 {
     "autoload": {
         "psr-4": {
-            "PHPEnv\\": "src/"
+            "PHPEnv\\": "src/",
+            "Kubeless\\": "runtime/"
         }
     },
     "require": {
